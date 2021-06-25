@@ -39,5 +39,5 @@ Figure 8: T-test for lot3.
 
 ## Study Design: MechaCar vs Competition
 
-Customer might be intersted in the cost of having hte MechaCar. We can test to see how different the cost of MechaCar from the Competition. The null hypothesis will be there is no difference from the competition, while the alternative hypothesis will be there is difference. In this test we will look at the highway fuel efficiency and maintenance cost. Comparing the t-test form the MechaCar with all the competitor, we will get the final result.
+Customer might be intersted in the cost of having the MechaCar. We can test to see how different the cost of MechaCar from the Competition. The null hypothesis will be there is no difference from the competition, while the alternative hypothesis will be there is difference. In this test we will look at the highway fuel efficiency and maintenance cost. Comparing the t-test form the MechaCar with all the competitor, we will get the final result.
 
